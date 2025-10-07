@@ -20,7 +20,7 @@ Elegant Context is a simple online shop built with React, designed to help you p
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/elegant-context.git
+    git clone https://github.com/iiMattheww/elegant-context.git
     cd elegant-context
 
     ```
