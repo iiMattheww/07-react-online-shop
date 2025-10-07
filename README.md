@@ -19,24 +19,29 @@ Elegant Context is a simple online shop built with React, designed to help you p
 ## Getting Started
 
 1. **Clone the repository:**
+
     ```sh
     git clone https://github.com/iiMattheww/elegant-context.git
     cd elegant-context
 
     ```
+
 2. **Install dependencies:**
-   ```sh
-   npm install
-   ```
+
+    ```sh
+    npm install
+    ```
 
 3. **Run the development server:**
-   ```sh
-   npm run dev
-   ```
+
+    ```sh
+    npm run dev
+    ```
 
 4. **Open [http://localhost:5173](http://localhost:5173) in your browser.**
 
-License
+## License
+
 This project is licensed under the MIT License.
 
 Made with ❤️ for React practice!
